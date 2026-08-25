@@ -7,3 +7,5 @@ __pycache__
 documentation/
 *.csv
 *.csv#
+*.pptx
+*.pptx#
